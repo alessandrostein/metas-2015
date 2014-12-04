@@ -20,4 +20,5 @@ Minimo 2 eventos
 Lista de eventos desejados:
 
 TDC
+
 RubyConfBrasil
