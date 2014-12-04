@@ -13,3 +13,4 @@ Blog pessoal
 
 Ler um livro por completo
 
+Participar de um projeto open-source
