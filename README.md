@@ -2,7 +2,7 @@
 
 ## Eventos Empreendedorismo
 
-- [x] Participar de um Startup Weekend;
+- [ ] Participar de um Startup Weekend;
 
 ## Eventos Tecnologia
 
@@ -16,12 +16,13 @@
 
 ## Projetos
 
-- [] Contribuir em um projeto open-source;
-- [] TCC do curso Bacharelado em Sistemas de Informação;
-- [] Site/blog pessoal;
-- [] Encontro da comunidade Ruby de Jaraguá do Sul;
+- [ ] Contribuir em um projeto open-source;
+- [ ] TCC do curso Bacharelado em Sistemas de Informação;
+- [ ] Site/blog pessoal;
+- [ ] Encontro da comunidade Ruby de Jaraguá do Sul;
 
 ## Outros
 
-- [] Enem 2015
-- [] Ler um livro
+- [ ] Enem 2015
+- [ ] Ler um livro
+ 
