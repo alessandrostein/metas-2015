@@ -11,10 +11,10 @@
 ### Eventos desejados
 
 1. TDC
-2. RubyConf Brasil
-3. Campus Party Brasil
+2. RubyConf Brasil :metal:
+3. Campus Party Brasil :metal:
 4. Abril Pro Ruby
-5. Ruby
+5. Rupy
 6. BrazilJS
 
 ## Projetos
