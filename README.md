@@ -2,11 +2,11 @@
 
 ## Eventos Empreendedorismo
 
-- [] Participar de um Startup Weekend;
-- 
+- [x] Participar de um Startup Weekend;
+
 ## Eventos Tecnologia
 
-- [] Participar no mínimo 2 eventos;
+- [ ] Participar no mínimo 2 eventos;
 
 ### Eventos desejados
 
