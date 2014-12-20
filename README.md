@@ -11,8 +11,11 @@
 ### Eventos desejados
 
 1. TDC
-2. RubyConfBrasil
-3. CampusPartyBrasil
+2. RubyConf Brasil
+3. Campus Party Brasil
+4. Abril Pro Ruby
+5. Ruby
+6. BrazilJS
 
 ## Projetos
 
