@@ -1,26 +1,27 @@
-metas-2015
-==========
+# Objetivos para 2015
 
-Metas para conquistar e alavancar minha carreira.
+## Eventos Empreendedorismo
 
-Participar de um Startup Weekend
+- [] Participar de um Startup Weekend;
+- 
+## Eventos Tecnologia
 
-Fazer o ENEM
+- [] Participar no mínimo 2 eventos;
 
-Fazer o TCC
+### Eventos desejados
 
-Blog pessoal
+1. TDC
+2. RubyConfBrasil
+3. CampusPartyBrasil
 
-Ler um livro por completo
+## Projetos
 
-Participar de um projeto open-source
+- [] Contribuir em um projeto open-source;
+- [] TCC do curso Bacharelado em Sistemas de Informação;
+- [] Site/blog pessoal;
+- [] Encontro da comunidade Ruby de Jaraguá do Sul;
 
-Incentivar ou participar de um {{evento, dojo, encontro}} da comunidade Ruby em Jaraguá do Sul
+## Outros
 
-Minimo 2 eventos
-
-Lista de eventos desejados:
-
-TDC
-
-RubyConfBrasil
+- [] Enem 2015
+- [] Ler um livro
