@@ -6,14 +6,14 @@
 
 ## Eventos Tecnologia
 
-- [ ] Participar no mínimo 2 eventos;
+- [ ] Participar no mínimo de 2 eventos desejados;
 
 ### Eventos desejados
 
 1. TDC
 2. RubyConf Brasil :metal:
 3. Campus Party Brasil :metal:
-4. Abril Pro Ruby
+4. Tropical Ruby
 5. Rupy
 6. BrazilJS
 
