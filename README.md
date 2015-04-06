@@ -2,7 +2,7 @@
 
 ## Eventos Empreendedorismo
 
-- [ ] Participar de um Startup Weekend;
+- [x] Participar de um Startup Weekend;
 
 ## Eventos Tecnologia
 
