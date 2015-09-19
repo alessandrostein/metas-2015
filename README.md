@@ -6,11 +6,11 @@
 
 ## Eventos Tecnologia
 
-- [ ] Participar no mínimo de 2 eventos desejados;
+- [x] Participar no mínimo de 2 eventos desejados;
 
 ### Eventos desejados
 
-1. TDC
+1. TDC 
 2. RubyConf Brasil :metal:
 3. Campus Party Brasil :metal:
 4. Tropical Ruby
