@@ -19,13 +19,13 @@
 
 ## Projetos
 
-- [ ] Contribuir em um projeto open-source;
-- [ ] TCC do curso Bacharelado em Sistemas de Informação;
+- [x] Contribuir em um projeto open-source;
+- [x] TCC do curso Bacharelado em Sistemas de Informação;
 - [ ] Site/blog pessoal;
 - [ ] Encontro da comunidade Ruby de Jaraguá do Sul;
 
 ## Outros
 
-- [ ] Enem 2015
+- [x] Enem 2015
 - [ ] Ler um livro
  
